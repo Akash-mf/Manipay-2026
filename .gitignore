@@ -1,0 +1,23 @@
+# Secrets
+.env
+.env.*
+
+# OS / editor
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
+*.swp
+
+# Node (if you add a build step later)
+node_modules/
+npm-debug.log*
+
+# Logs & temp
+*.log
+*.tmp
+/tmp/
+
+# Vercel
+.vercel

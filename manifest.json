@@ -1,0 +1,16 @@
+{
+  "name": "ManiPay Digital Payments",
+  "short_name": "ManiPay",
+  "description": "Digital payment services in Ambattur, Chennai.",
+  "start_url": "/index.html",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#FFFFFF",
+  "theme_color": "#13436F",
+  "lang": "en-IN",
+  "icons": [
+    { "src": "/assets/images/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "/assets/images/icon-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "/assets/images/icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}

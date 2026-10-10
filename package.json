@@ -1,0 +1,13 @@
+{
+  "name": "manipay-website",
+  "version": "1.0.0",
+  "private": true,
+  "description": "ManiPay Digital Payments website — static pages + live Google reviews + WhatsApp enquiries",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}

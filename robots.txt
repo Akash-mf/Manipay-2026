@@ -1,0 +1,11 @@
+# robots.txt — ManiPay Digital Payments
+User-agent: *
+Allow: /
+
+# Keep error pages and private files out of search results
+Disallow: /404.html
+Disallow: /500.html
+Disallow: /503.html
+Disallow: /.env
+
+Sitemap: https://manipay.in/sitemap.xml
